@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdallatifTiyah
-- 👀 I’m interested in Data analysis
+- 👀 I’m a Data analysis & Python player
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on projects that have an impact for people and society
 - 📫 reach me on [linkedIn](https://www.linkedin.com/in/abdallatiftiyah/)
